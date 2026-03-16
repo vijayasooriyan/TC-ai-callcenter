@@ -396,3 +396,1508 @@
 2026-03-16 15:37:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:37:27] "GET /api/status HTTP/1.1" 200 -
 2026-03-16 15:38:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:38:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
 2026-03-16 15:38:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:38:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:38:52,426 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:38:52] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 15:39:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:39:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:39:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:40:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:40:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:40:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:41:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:41:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:41:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:41:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:42:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:42:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:42:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:42:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:43:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:43:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:43:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:44:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:44:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:44:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:44:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:45:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:45:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:45:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:45:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:46:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:46:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:46:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:46:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:47:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:47:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:47:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:48:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:48:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:48:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:49:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:49:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:49:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:50:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:50:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:50:38,893 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:38] "OPTIONS /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 15:50:39,704 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:39] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 15:50:39,711 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:39] "OPTIONS /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 15:50:40,492 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:40] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 15:50:40,497 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:40] "OPTIONS /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 15:50:41,311 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:41] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 15:50:48,188 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:50:48,191 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:50:50,671 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:50] "OPTIONS /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 15:50:51,353 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:50:51] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 15:51:08,185 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:51:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:51:08,188 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:51:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:51:28,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:51:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:51:28,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:51:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:51:48,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:51:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:51:48,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:51:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:52:08,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:52:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:52:08,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:52:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:53:20,154 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:20] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:53:20,158 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:20] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:53:22,349 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:22] "OPTIONS /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 15:53:23,151 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:23] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 15:53:23,157 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:23] "OPTIONS /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 15:53:24,320 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:24] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 15:53:24,326 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:24] "OPTIONS /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 15:53:25,542 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:25] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 15:53:28,074 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:28] "OPTIONS /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 15:53:28,184 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:53:28,187 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:53:28,810 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:28] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 15:53:28,816 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:28] "OPTIONS /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 15:53:29,599 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:29] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 15:53:29,605 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:29] "OPTIONS /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 15:53:30,882 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:30] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 15:53:48,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:53:48,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:53:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:54:08,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:54:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:54:08,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:54:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:54:28,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:54:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:54:28,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:54:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:55:21,306 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:21] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:55:21,309 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:21] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:55:28,188 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:55:28,191 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:55:31,433 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:31] "OPTIONS /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 15:55:32,282 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:32] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 15:55:48,185 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:55:48,189 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:55:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:56:08,190 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:56:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:56:08,192 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:56:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:56:28,187 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:56:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:56:28,190 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:56:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:56:48,185 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:56:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:56:48,188 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:56:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:57:08,189 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:57:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:57:08,192 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:57:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:57:28,186 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:57:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:57:28,189 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:57:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:57:48,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:57:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:57:48,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:57:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:58:08,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:58:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:58:08,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:58:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:58:28,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:58:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:58:28,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:58:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 15:59:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:59:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 15:59:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 15:59:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:00:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:00:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:00:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:01:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:01:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:01:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:02:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:02:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:02:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:03:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:03:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:03:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:04:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:04:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:04:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:04:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:05:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:05:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:05:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:05:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:06:06,327 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:06] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:06:06,330 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:06:08,187 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:06:28,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:06:28,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:06:31,982 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 16:06:31,982 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 16:06:37,810 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:37] "GET / HTTP/1.1" 200 -
+2026-03-16 16:06:38,177 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:06:47,177 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 16:06:47,179 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 16:06:47,184 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:47] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 16:06:48,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:06:48,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:06:53,269 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:53] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:06:53,492 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:53] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 16:06:58,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:06:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:07:08,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:07:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:07:08,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:07:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:07:18,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:07:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:07:38,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:07:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:07:58,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:07:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:08:18,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:08:27,148 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:27] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 16:08:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:08:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:08:27,868 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:27] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 16:08:28,998 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:28] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 16:08:38,177 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:08:45,740 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:45] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 16:08:49,053 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:49] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 16:08:50,184 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:50] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 16:08:58,181 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:08:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:09:18,180 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:09:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:09:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:09:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:09:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:09:38,183 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:09:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:09:58,184 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:09:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:10:01,091 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:10:01] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 16:10:18,177 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:10:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:10:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:10:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:10:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:10:38,180 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:10:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:10:58,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:10:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:11:12,976 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:12] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 16:11:13,679 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:13] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 16:11:14,731 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:14] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 16:11:18,177 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:11:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:11:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:11:38,182 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:11:58,180 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:11:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:12:02,426 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:02] "POST /vapi/call_outbound HTTP/1.1" 200 -
+2026-03-16 16:12:18,178 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:12:21,709 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:21] "POST /vapi/call_outbound HTTP/1.1" 200 -
+2026-03-16 16:12:25,637 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:25] "POST /vapi/call_outbound HTTP/1.1" 200 -
+2026-03-16 16:12:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:12:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:12:38,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:12:58,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:12:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:13:18,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:13:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:13:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:13:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:13:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:14:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:14:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:14:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:14:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:14:38,179 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:14:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:14:43,003 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:14:43] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 16:14:58,178 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:14:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:15:18,176 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:15:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:15:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:15:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:15:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:15:38,181 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:15:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:15:58,178 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:15:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:16:18,184 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:16:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:16:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:16:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:16:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:16:38,180 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:16:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:16:58,179 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:16:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:17:18,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:17:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:17:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:17:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:17:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:17:38,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:17:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:25:37,654 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:25:37] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:25:37,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:25:37] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:25:37,723 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:25:37] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:33:16,836 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:16] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:33:16,839 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:16] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:33:16,845 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:16] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:33:23,533 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:23] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:33:23,533 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:23] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:33:26,858 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:26] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:33:26,967 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:26] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:33:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:33:31,836 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:31] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:33:31,837 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:33:31] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:34:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:34:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:34:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:34:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:35:11,382 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:35:11] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:35:18,177 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:35:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:35:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:35:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:35:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:35:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:35:38,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:35:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:35:58,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:35:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:36:18,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:36:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:36:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:36:38,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:36:52,906 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:52] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:36:52,910 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:52] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:36:55,308 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:55] "OPTIONS /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 16:36:55,980 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:55] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 16:36:55,986 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:55] "OPTIONS /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 16:36:56,666 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:56] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 16:36:56,672 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:56] "OPTIONS /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 16:36:57,372 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:36:57] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 16:37:08,185 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:37:08,188 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:37:14,073 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:14] "OPTIONS /vapi/setup HTTP/1.1" 200 -
+2026-03-16 16:37:15,107 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:15] "[31m[1mPOST /vapi/setup HTTP/1.1[0m" 400 -
+2026-03-16 16:37:24,725 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:24] "OPTIONS /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 16:37:25,692 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:25] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 16:37:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:37:28,190 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:37:28,192 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:37:48,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:37:48,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:37:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:38:01,462 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:01] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:38:08,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:08] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:38:08,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:38:18,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:38:28,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:28] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:38:28,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:38:38,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:38] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:38:48,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:48] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:38:48,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:38:58,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:38:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:39:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:39:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:39:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:39:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:40:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:40:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:40:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:40:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:54:40,725 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:54:40] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:54:40,727 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:54:40] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:54:40,733 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:54:40] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:54:46,675 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:54:46] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:54:46,676 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:54:46] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:54:55,728 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:54:55] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:54:55,729 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:54:55] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:55:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:55:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:55:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:55:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:56:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:56:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:56:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:56:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:56:27,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:56:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:56:39,554 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 16:56:39,555 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 16:56:53,278 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:56:53] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 16:56:53,361 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:56:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:56:56,070 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:56:56] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:56:58,182 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:56:58] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:57:02,773 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 16:57:02,775 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 16:57:02,785 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:02] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 16:57:08,487 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:08] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 16:57:13,373 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:57:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:57:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:57:33,369 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:57:48,635 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 16:57:48,636 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 16:57:48,650 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:48] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 16:57:53,366 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:57:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:58:01,219 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 16:58:01,221 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 16:58:01,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:58:01] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 16:58:08,357 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 16:58:08,359 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 16:58:08,372 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:58:08] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 16:58:13,373 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:58:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:58:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:58:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:58:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:58:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:58:33,378 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:58:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:58:54,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:58:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:59:14,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:59:14] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:59:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:59:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 16:59:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:59:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:59:34,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:59:34] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 16:59:54,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 16:59:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:00:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:00:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:00:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:00:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:01:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:01:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:01:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:01:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:02:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:02:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:02:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:02:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:03:27,251 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:03:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:03:27,252 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:03:27,257 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:03:30,353 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:03:30,355 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:03:30,365 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:03:30] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:03:33,371 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:03:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:03:33,827 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:03:33,829 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:03:33,842 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:03:33] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:03:50,060 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 17:03:50,060 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 17:03:54,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:03:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:04:08,559 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:08] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 17:04:08,633 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:04:16,367 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:04:16,369 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:04:16,378 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:16] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:04:20,110 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:04:20,113 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:04:20,127 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:20] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:04:22,614 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:04:22,616 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:04:22,629 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:22] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:04:23,649 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:23] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 17:04:25,571 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:04:25,573 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:04:25,586 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:25] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:04:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:04:27,240 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:04:28,641 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:04:29,309 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:29] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 17:04:30,410 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:30] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 17:04:32,206 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:32] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 17:04:48,642 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:04:50,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:04:50] "[31m[1mPOST /vapi/setup HTTP/1.1[0m" 400 -
+2026-03-16 17:05:08,639 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:05:20,731 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:20] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 17:05:21,976 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:21] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 17:05:22,857 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:22] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 17:05:23,268 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:23] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 17:05:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:05:27,239 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:05:28,644 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:05:49,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:05:49] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:06:09,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:06:09] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:06:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:06:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:06:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:06:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:06:29,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:06:29] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:07:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:07:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:07:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:07:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:07:27,240 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:07:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:08:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:08:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:08:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:08:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:09:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:09:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:09:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:09:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:10:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:10:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:10:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:10:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:11:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:11:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:11:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:11:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:12:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:12:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:12:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:12:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:13:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:13:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:13:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:13:27,239 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:14:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:14:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:14:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:14:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:15:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:15:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:15:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:15:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:16:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:16:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:16:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:16:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:17:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:17:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:17:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:17:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:18:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:18:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:18:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:18:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:19:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:19:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:19:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:19:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:20:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:20:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:20:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:20:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:21:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:21:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:21:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:21:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:22:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:22:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:22:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:22:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:23:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:23:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:23:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:23:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:24:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:24:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:24:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:24:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:25:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:25:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:25:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:25:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:26:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:26:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:26:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:26:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:27:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:27:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:27:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:27:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:28:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:28:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:28:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:28:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:29:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:29:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:29:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:29:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:30:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:30:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:30:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:30:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:30:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:30:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:31:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:31:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:31:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:31:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:31:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:31:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:32:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:32:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:32:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:32:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:32:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:32:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:33:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:33:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:33:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:33:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:33:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:33:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:34:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:34:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:34:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:34:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:35:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:35:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:35:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:35:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:35:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:35:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:36:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:36:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:36:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:36:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:36:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:36:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:37:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:37:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:37:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:37:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:37:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:37:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:38:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:38:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:38:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:38:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:38:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:38:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:39:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:39:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:39:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:39:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:40:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:40:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:40:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:40:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:41:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:41:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:41:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:41:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:41:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:41:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:42:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:42:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:42:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:42:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:42:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:42:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:43:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:43:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:43:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:43:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:44:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:44:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:44:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:44:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:44:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:44:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:45:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:45:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:45:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:45:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:45:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:45:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:46:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:46:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:46:27,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:46:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:46:28,251 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:46:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:46:30,843 [ERROR] werkzeug: Error on request:
+Traceback (most recent call last):
+  File "C:\Users\VIJAYASOORIYAN.K\Desktop\TC-ai-callcenter\.venv\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+    ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\VIJAYASOORIYAN.K\Desktop\TC-ai-callcenter\.venv\Lib\site-packages\werkzeug\serving.py", line 355, in execute
+    data = self.rfile.read(10_000_000)
+MemoryError
+2026-03-16 17:46:30,844 [ERROR] werkzeug: Error on request:
+Traceback (most recent call last):
+  File "C:\Users\VIJAYASOORIYAN.K\Desktop\TC-ai-callcenter\.venv\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+    ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\VIJAYASOORIYAN.K\Desktop\TC-ai-callcenter\.venv\Lib\site-packages\werkzeug\serving.py", line 355, in execute
+    data = self.rfile.read(10_000_000)
+MemoryError
+2026-03-16 17:47:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:47:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:47:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:47:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:48:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:48:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:48:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:48:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:49:21,446 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 17:49:21,446 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 17:49:25,774 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:25] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 17:49:25,831 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:25] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:49:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:49:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:49:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:49:34,165 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:49:34,166 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:49:34,173 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:34] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:49:40,947 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:40] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 17:49:43,331 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:49:43,332 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:49:43,337 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:43] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:49:45,821 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:49:45,822 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:49:45,829 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:45] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:49:45,834 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:45] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:49:53,176 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:49:53,177 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:49:53,182 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:49:53] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:50:06,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:50:07,243 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:07] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 17:50:07,290 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:07] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:50:15,348 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:15] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 17:50:15,981 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:15] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 17:50:16,673 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:16] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 17:50:22,386 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:22] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 17:50:26,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:50:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:50:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:50:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:50:27,291 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:50:27,995 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:27] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 17:50:46,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:50:47,295 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:50:47] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:51:06,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:51:07,293 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:07] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:51:26,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:51:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:51:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:51:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:51:27,299 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:51:48,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:51:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:08,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 17:52:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:28,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:28] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:48,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:48] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:52,847 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:52] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:52:54,498 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:52:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:53:06,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:53:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:53:26,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:53:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:53:46,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:53:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:54:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:54:53,753 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:54:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:55:06,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:55:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:55:26,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:55:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:55:46,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:55:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:56:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:56:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:57:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:57:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:58:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:58:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 17:59:01,522 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 17:59:01,523 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 17:59:20,613 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 17:59:20,614 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 17:59:20,618 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:59:20] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 17:59:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 17:59:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:00:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:01:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:01:31,125 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 18:01:31,126 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 18:01:37,546 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 18:01:37,547 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 18:01:37,552 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:01:37] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 18:02:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:03:02,737 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 18:03:02,737 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 18:03:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:03:32,881 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:32] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 18:03:32,922 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:32] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:03:38,562 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 18:03:38,562 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 18:03:38,567 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:38] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 18:03:41,614 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 18:03:41,614 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 18:03:41,620 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:41] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 18:03:43,426 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 18:03:43,427 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 18:03:43,437 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:43] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 18:03:47,953 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:47] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 18:03:53,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:03:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:04:13,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:04:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:04:33,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:04:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:04:53,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:04:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:05:13,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:05:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:05:33,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:05:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:06:08,453 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:06:08] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:06:12,922 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:06:12] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:06:33,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:06:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:06:44,451 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 18:06:44,452 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 18:06:53,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:06:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:07:13,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:07:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:08:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:09:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:10:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:11:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:12:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:12:41,395 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:12:41] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:12:45,940 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:12:45] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 18:12:45,976 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:12:45] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:13:00,998 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:00] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 18:13:05,980 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:05] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:13:11,010 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:11] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 18:13:11,677 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:11] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 18:13:12,402 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:12] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 18:13:13,449 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:13] "[31m[1mPOST /vapi/setup HTTP/1.1[0m" 400 -
+2026-03-16 18:13:25,980 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:25] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:13:26,614 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:26] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 18:13:26,639 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:13:30,141 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:30] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 18:13:30,787 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:30] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 18:13:31,578 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:31] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 18:13:31,584 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:31] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 18:13:41,656 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:41] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 18:13:46,637 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:13:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:14:06,637 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:14:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:14:26,641 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:14:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:14:47,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:14:47] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:15:07,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:15:07] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:15:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:16:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:17:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:18:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:19:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:20:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:21:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:22:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:23:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:24:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:25:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:26:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:27:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:28:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:29:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:30:27,213 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:30:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:31:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:31:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:32:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:32:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:33:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:33:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:34:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:35:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:35:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:36:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:36:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:37:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:37:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:38:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:38:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:39:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:40:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:41:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:41:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:42:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:42:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:43:15,892 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:43:15] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:43:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:43:47,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:43:47] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:44:07,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:44:07] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:44:26,642 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:44:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:44:29,267 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:44:29] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 18:44:29,950 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:44:29] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 18:44:30,641 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:44:30] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 18:44:46,639 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:44:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:45:06,638 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:45:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:45:26,645 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:45:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:45:46,639 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:45:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:46:02,020 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:46:02] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 18:46:06,636 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:46:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:46:26,641 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:46:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:46:47,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:46:47] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:47:07,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:47:07] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:47:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:48:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:49:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:50:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:51:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:52:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:53:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:54:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:55:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:55:46,638 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:55:49,680 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:49] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 18:55:49,720 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:49] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:55:52,884 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:52] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 18:55:53,600 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:53] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 18:55:54,377 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:54] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 18:55:54,763 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:55:54] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 18:56:00,933 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:00] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 18:56:01,569 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:01] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 18:56:02,292 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:02] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 18:56:04,758 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:04] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 18:56:09,110 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-03-16 18:56:09,112 [ERROR] tc-eusl.vapi: Groq error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-16 18:56:09,118 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:09] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 18:56:09,725 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:09] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:56:30,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:30] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:56:50,214 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:56:50] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:57:19,333 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 18:57:19,334 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 18:57:30,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:57:30] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:57:35,576 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:57:35] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 18:57:50,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:57:50] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:58:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:58:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 18:58:37,352 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 18:58:37,921 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 18:58:38,267 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:58:38] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 18:58:59,977 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:58:59] "GET / HTTP/1.1" 200 -
+2026-03-16 18:59:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 18:59:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:00:04,480 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:04] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 19:00:04,528 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:04] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:00:04,531 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:04] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:00:07,498 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:07] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:00:07,713 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:00:08,085 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:00:08,537 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:08] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:00:15,081 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:15] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:00:15,352 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:00:15,729 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:00:16,121 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:16] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:00:19,639 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:19] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:00:24,536 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:24] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:00:24,539 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:24] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:00:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:00:44,532 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:44] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:00:44,535 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:00:44] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:01:04,536 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:01:04] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:01:04,539 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:01:04] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:01:25,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:01:25] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:01:25,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:01:25] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:01:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:01:44,534 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:01:44] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:01:44,538 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:01:44] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:02:04,531 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:02:04] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:02:04,534 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:02:04] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:02:25,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:02:25] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:02:25,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:02:25] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:02:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:02:45,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:02:45] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:02:45,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:02:45] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:03:05,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:03:05] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:03:05,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:03:05] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:03:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:03:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:03:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:03:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:03:49,151 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:03:49] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:04:12,714 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 19:04:12,714 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 19:04:25,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:25] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:04:25,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:25] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:04:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:04:27,951 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:27] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:04:27,952 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:27] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:04:45,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:45] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:04:45,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:45] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:04:57,013 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:04:57] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:05:05,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:05] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:05:05,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:05] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:05:19,041 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 19:05:19,042 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 19:05:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:05:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:05:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:05:30,607 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:30] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:05:30,607 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:30] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:05:44,517 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 19:05:44,517 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 19:05:45,013 [INFO] tc-eusl: [SSE] Client connected. Total clients: 1
+2026-03-16 19:05:45,014 [INFO] tc-eusl: [SSE] Client connected. Total clients: 2
+2026-03-16 19:05:55,019 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:55] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:05:55,019 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:05:55] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:06:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:06:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:06:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:06:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:06:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:06:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:06:28,706 [INFO] tc-eusl: [SSE] Client connected. Total clients: 3
+2026-03-16 19:06:38,721 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:06:38] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:07:08,740 [INFO] tc-eusl: [SSE] Client disconnected
+2026-03-16 19:07:15,082 [INFO] tc-eusl: [SSE] Client connected. Total clients: 3
+2026-03-16 19:07:25,087 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:07:25] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:07:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:07:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:07:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:07:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:07:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:07:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:07:45,099 [INFO] tc-eusl: [SSE] Client disconnected
+2026-03-16 19:08:07,116 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:07] "GET / HTTP/1.1" 200 -
+2026-03-16 19:08:09,364 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:08:12,981 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:08:13,370 [INFO] tc-eusl.vapi: Groq answered: Hello, thank you for calling Trincomalee Campus of Eastern University Sri Lanka. How may I assist yo…
+2026-03-16 19:08:13,376 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:13] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:08:15,443 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:15] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:08:17,491 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:17] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:08:19,514 [INFO] tc-eusl: [SSE] Client connected. Total clients: 3
+2026-03-16 19:08:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:08:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:08:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:08:29,525 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:08:29] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:08:29,525 [INFO] tc-eusl: [SSE] Client disconnected
+2026-03-16 19:09:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:09:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:09:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:09:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:09:53,949 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:09:53] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 19:09:53,997 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:09:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:09:54,000 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:09:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:09:54,094 [INFO] tc-eusl: [SSE] Client connected. Total clients: 3
+2026-03-16 19:10:04,110 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:04] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:10:08,844 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:08] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:10:09,083 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:10:12,004 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:10:12,255 [INFO] tc-eusl.vapi: Groq answered: Hello, thank you for calling Trincomalee Campus of Eastern University Sri Lanka. How may I assist yo…
+2026-03-16 19:10:12,263 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:12] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:10:14,000 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:14] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:10:14,003 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:14] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:10:17,251 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:17] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:10:17,485 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:10:19,923 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:10:21,777 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:21] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:10:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:10:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:10:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:10:29,790 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:29] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:10:30,015 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:10:31,787 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:10:32,502 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:32] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:10:33,997 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:10:34,000 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:34] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:10:35,677 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:35] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:10:35,902 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:10:36,298 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:10:40,620 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:40] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:10:43,765 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:43] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:10:44,046 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:10:44,806 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:10:45,857 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:45] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:10:54,003 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:54] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:10:54,006 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:10:54,577 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:54] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:10:54,794 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:10:55,152 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:10:59,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:10:59] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:11:14,000 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:14] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:11:14,003 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:14] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:11:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:11:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:11:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:11:33,686 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:33] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 19:11:33,719 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:11:33,721 [INFO] tc-eusl: [SSE] Client connected. Total clients: 4
+2026-03-16 19:11:33,725 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:11:34,187 [INFO] tc-eusl: [SSE] Client disconnected
+2026-03-16 19:11:43,728 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:43] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:11:53,712 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:11:53,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:11:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:12:13,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:12:13,719 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:12:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:12:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:12:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:12:33,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:12:33,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:12:53,719 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:12:53,721 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:12:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:13:13,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:13:13,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:13:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:13:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:13:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:13:33,713 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:13:33,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:13:53,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:13:53,721 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:13:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:14:13,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:14:13,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:14:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:14:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:14:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:14:33,713 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:14:33,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:14:42,041 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:42] "OPTIONS /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 19:14:43,472 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:43] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 19:14:54,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:54] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:14:54,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:14:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:15:14,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:14] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:15:14,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:14] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:15:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:15:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:15:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:15:34,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:34] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:15:34,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:34] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:15:46,109 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:46] "OPTIONS /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:46,114 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:46] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:47,550 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:47] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:51,734 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:51] "OPTIONS /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:51,738 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:51] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:52,751 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:52] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:52,976 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:52] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:53,153 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:53] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:53,318 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:53] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:53,541 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:53] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:53,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:15:53,719 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:15:54,765 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:54] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 19:15:58,988 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:15:58] "OPTIONS /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 19:16:00,929 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:00] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 19:16:00,937 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:00] "OPTIONS /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 19:16:01,641 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:01] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 19:16:01,646 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:01] "OPTIONS /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 19:16:02,481 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:02] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 19:16:14,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:14] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:16:14,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:14] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:16:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:16:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:16:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:16:34,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:34] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:16:34,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:34] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:16:54,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:54] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:16:54,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:16:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:17:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:17:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:17:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:17:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:17:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:17:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:17:27,239 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:18:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:18:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:18:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:18:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:18:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:18:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:18:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:19:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:19:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:19:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:19:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:19:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:19:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:19:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:20:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:20:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:20:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:20:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:20:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:20:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:20:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:21:18,198 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:18] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:21:18,201 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:18] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:21:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:21:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:21:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:21:33,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:21:33,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:21:38,316 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:38] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:21:38,527 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:21:38,920 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:21:42,612 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:42] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:21:53,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:21:53,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:21:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:22:13,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:22:13,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:22:17,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:17] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:22:17,431 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:22:17,680 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:22:21,213 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:21] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:22:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:22:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:22:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:22:33,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:22:33,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:22:53,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:22:53,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:22:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:23:13,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:23:13,721 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:23:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:23:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:23:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:23:28,194 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:28] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:23:28,407 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:23:28,793 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:23:33,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:23:33,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:23:34,156 [INFO] tc-eusl.vapi: Groq answered: For more details, please contact us on +94 26 2227410 or email rector@esn.ac.lk…
+2026-03-16 19:23:34,165 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:34] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:23:53,713 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:23:53,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:23:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:24:06,991 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:06] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:24:07,213 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:24:07,590 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:24:08,288 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:08] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:24:13,712 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:24:13,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:24:24,290 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:24] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:24:24,516 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:24:25,019 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:24:25,679 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:25] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:24:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:24:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:24:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:24:33,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:24:33,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:24:40,656 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:40] "[35m[1mOPTIONS /api/chat HTTP/1.1[0m" 204 -
+2026-03-16 19:24:40,873 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 19:24:41,259 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 19:24:47,207 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:47] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 19:24:53,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:24:53,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:24:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:25:13,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:25:13,719 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:25:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:25:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:25:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:25:33,713 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:25:33,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:25:53,711 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:25:53,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:25:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:26:13,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:26:13,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:26:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:26:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:26:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:26:33,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:26:33,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:26:53,712 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:26:53,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:26:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:27:13,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:27:13,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:27:27,214 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:27:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:27:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:27:33,712 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:27:33,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:27:53,713 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:27:53,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:27:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:28:13,715 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:28:13,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:28:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:28:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:28:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:28:33,713 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:28:33,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:28:53,713 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:28:53,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:28:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:29:13,714 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:13] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:29:13,716 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:13] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:29:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:29:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:29:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:29:33,718 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:33] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:29:33,721 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:33] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:29:53,717 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:53] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:29:53,720 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:29:53] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:30:04,554 [INFO] tc-eusl: [SSE] Client disconnected
+2026-03-16 19:52:39,178 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:39] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:52:39,180 [INFO] tc-eusl: [SSE] Client connected. Total clients: 3
+2026-03-16 19:52:39,182 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:39] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:52:39,184 [INFO] tc-eusl: [SSE] Client connected. Total clients: 4
+2026-03-16 19:52:39,205 [INFO] tc-eusl: [SSE] Client connected. Total clients: 5
+2026-03-16 19:52:39,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:39] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:52:39,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:39] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:52:39,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:39] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:52:40,138 [INFO] tc-eusl: [SSE] Client disconnected
+2026-03-16 19:52:40,234 [INFO] tc-eusl: [SSE] Client disconnected
+2026-03-16 19:52:49,184 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:49] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:52:49,190 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:49] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:52:49,212 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:52:49] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 19:53:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:53:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:53:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:53:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:53:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:53:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:53:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:54:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:54:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:54:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:54:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:54:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:54:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:54:27,239 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:55:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:55:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:55:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:55:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:55:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:55:46,614 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:46] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:55:46,618 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:55:54,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:54] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:55:54,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:55:54] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:56:14,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:56:14] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:56:14,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:56:14] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:56:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:56:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:56:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:56:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:56:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:56:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:56:34,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:56:34] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:56:34,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:56:34] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:57:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:57:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:57:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:57:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:57:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:57:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:57:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:57:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:57:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:57:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:58:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:58:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:58:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:58:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:58:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:58:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:58:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:58:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:58:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:58:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:59:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:59:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:59:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:59:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:59:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:59:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 19:59:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:59:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 19:59:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 19:59:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:00:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:00:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:00:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:00:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:00:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:00:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:00:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:00:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:01:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:01:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:01:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:01:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:01:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:01:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:01:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:01:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:02:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:02:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:02:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:02:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:02:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:02:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:02:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:02:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:03:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:03:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:03:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:03:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:03:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:03:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:03:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:03:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:04:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:04:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:04:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:04:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:04:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:04:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:04:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:04:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:05:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:05:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:05:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:05:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:05:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:05:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:05:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:05:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:05:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:05:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:06:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:06:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:06:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:06:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:06:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:06:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:06:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:06:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:06:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:06:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:07:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:07:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:07:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:07:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:07:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:07:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:07:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:07:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:07:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:07:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:08:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:08:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:08:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:08:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:08:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:08:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:08:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:08:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:09:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:09:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:09:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:09:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:09:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:09:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:09:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:09:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:10:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:10:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:10:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:10:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:10:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:10:27,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:10:27,240 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:10:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:11:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:11:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:11:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:11:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:11:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:11:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:11:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:11:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:12:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:12:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:12:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:12:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:12:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:12:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:12:27,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:12:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:13:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:13:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:13:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:13:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:13:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:13:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:13:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:13:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:14:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:14:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:14:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:14:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:14:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:14:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:14:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:14:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:15:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:15:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:15:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:15:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:15:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:15:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:15:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:15:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:16:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:16:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:16:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:16:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:16:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:16:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:16:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:16:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:17:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:17:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:17:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:17:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:17:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:17:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:17:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:17:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:18:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:18:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:18:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:18:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:18:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:18:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:18:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:18:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:19:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:19:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:19:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:19:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:19:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:19:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:19:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:19:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:20:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:20:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:20:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:20:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:20:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:20:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:20:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:20:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:21:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:21:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:21:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:21:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:21:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:21:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:21:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:21:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:22:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:22:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:22:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:22:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:22:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:22:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:22:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:22:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:23:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:23:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:23:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:23:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:23:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:23:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:23:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:24:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:24:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:24:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:24:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:24:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:24:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:24:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:25:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:25:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:25:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:25:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:25:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:25:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:25:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:26:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:26:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:26:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:26:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:26:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:26:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:26:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:27:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:27:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:27:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:27:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:27:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:27:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:27:27,240 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:27:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:28:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:28:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:28:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:28:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:28:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:28:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:28:27,236 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:28:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:29:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:29:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:29:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:29:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:29:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:29:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:29:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:29:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:30:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:30:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:30:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:30:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:30:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:30:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:30:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:30:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:30:27,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:30:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:31:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:31:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:31:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:31:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:31:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:31:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:31:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:31:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:31:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:31:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:32:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:32:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:32:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:32:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:32:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:32:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:32:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:32:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:32:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:32:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:33:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:33:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:33:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:33:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:33:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:33:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:33:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:33:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:33:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:33:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:34:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:34:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:34:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:34:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:34:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:34:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:34:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:34:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:34:51,835 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 20:34:51,836 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 20:35:08,474 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:08] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 20:35:08,516 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:08] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 20:35:08,516 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:08] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 20:35:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:35:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:35:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:35:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:35:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:35:35,919 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:35:39,539 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:35:39,838 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:39] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:35:42,094 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:35:43,794 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:35:44,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:44] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:35:46,475 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:35:51,615 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:35:52,074 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:52] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:35:54,319 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:35:58,024 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:35:58,862 [WARNING] tc-eusl.vapi: Empty response from Groq
+2026-03-16 20:35:58,870 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:35:58] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:36:01,130 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:36:04,032 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:36:04,968 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:36:04] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:36:07,229 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:36:07,759 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:36:08,363 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:36:08] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:36:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:36:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:36:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:36:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:36:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:36:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:36:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:36:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:36:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:36:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:37:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:37:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:37:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:37:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:37:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:37:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:37:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:37:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:37:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:37:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:38:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:38:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:38:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:38:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:38:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:38:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:38:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:38:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:38:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:38:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:38:56,174 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 20:38:56,175 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 20:39:06,332 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:06] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 20:39:06,380 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:39:21,123 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:21] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 20:39:21,492 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:21] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 20:39:26,381 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:39:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:39:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:39:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:39:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:39:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:39:46,381 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:39:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:40:06,383 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:40:22,960 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:22] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 20:40:25,083 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:25] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 20:40:25,740 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:25] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 20:40:26,387 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:40:26,504 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:26] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 20:40:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:40:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:40:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:40:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:40:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:40:27,408 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:27] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 20:40:28,666 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:28] "GET /api/live_log HTTP/1.1" 200 -
+2026-03-16 20:40:46,386 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:40:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:41:06,381 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:41:26,389 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:41:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:41:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:41:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:41:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:41:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:41:35,623 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:35] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 20:41:36,323 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:36] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 20:41:37,182 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:37] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 20:41:41,107 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:41] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 20:41:46,383 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:41:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:41:58,095 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:41:59,843 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:42:00,790 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:00] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:42:06,381 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:06] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:42:07,384 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:42:07,762 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:42:09,993 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:09] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:42:17,025 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:42:20,427 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:42:21,119 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:21] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:42:26,387 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:26] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:42:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:42:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:42:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:42:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:42:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:42:37,716 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:42:40,025 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:42:40,860 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:40] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:42:46,382 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:42:46] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:43:07,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:07] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:43:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:43:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:43:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:43:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:43:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:43:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:43:47,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:43:47] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:44:07,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:07] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:44:27,214 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:44:27,215 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:44:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:44:27,220 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:44:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:44:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:44:47,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:44:47] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:45:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:45:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:45:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:45:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:45:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:45:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:45:27,233 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:45:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:45:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:45:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:45:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:45:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:46:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:46:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:46:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:46:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:46:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:46:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:46:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:46:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:46:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:46:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:46:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:46:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:47:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:47:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:47:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:47:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:47:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:47:27,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:47:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:47:27,241 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:47:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:48:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:48:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:48:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:48:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:48:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:48:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:48:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:48:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:48:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:49:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:49:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:49:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:49:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:49:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:49:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:49:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:49:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:49:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:50:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:50:27,229 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:50:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:50:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:50:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:50:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:50:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:50:27,238 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:50:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:51:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:51:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:51:27,227 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:51:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:51:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:51:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:51:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:51:27,237 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:51:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:52:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:52:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:52:27,231 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:52:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:52:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:52:27,234 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:52:27,235 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:52:27,239 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:52:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:53:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:53:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:53:27,226 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:53:27,228 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:53:27,230 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:53:27,232 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:53:40,449 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-16 20:53:40,450 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-16 20:53:45,327 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:45] "[36mGET / HTTP/1.1[0m" 304 -
+2026-03-16 20:53:45,395 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:45] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:53:51,070 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:51] "GET /vapi/assistants HTTP/1.1" 200 -
+2026-03-16 20:53:51,809 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:51] "GET /vapi/phone_numbers HTTP/1.1" 200 -
+2026-03-16 20:53:53,381 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:53] "GET /vapi/calls?limit=5 HTTP/1.1" 200 -
+2026-03-16 20:53:53,415 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:53:53] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 20:54:00,522 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:00] "GET /api/live HTTP/1.1" 200 -
+2026-03-16 20:54:01,848 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:01] "GET /vapi/calls?limit=20 HTTP/1.1" 200 -
+2026-03-16 20:54:05,397 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:05] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:54:11,366 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:54:13,947 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:54:14,469 [INFO] tc-eusl.vapi: Groq answered: We have the Faculty of Applied Science, the Faculty of Communication and Business Studies, the Facul…
+2026-03-16 20:54:14,476 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:14] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:54:18,088 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:54:19,307 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:54:19,824 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:19] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:54:22,817 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:54:25,394 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:25] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:54:25,553 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:54:26,543 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:26] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:54:27,216 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:54:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:54:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:54:27,221 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:54:27,223 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:54:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:54:31,819 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:54:34,534 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:54:35,449 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:35] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:54:45,397 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:54:45] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:05,395 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:05] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:15,976 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:55:19,851 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:55:20,413 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:20] "POST /api/chat HTTP/1.1" 200 -
+2026-03-16 20:55:25,393 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:25] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:27,217 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:55:27,218 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:27,219 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:27] "[35m[1mOPTIONS /api/status HTTP/1.1[0m" 204 -
+2026-03-16 20:55:27,222 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:27,224 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:27,225 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:27] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:45,396 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:45] "GET /api/status HTTP/1.1" 200 -
+2026-03-16 20:55:47,190 [INFO] tc-eusl.vapi: Calling Groq with 1 messages, model=openai/gpt-oss-120b
+2026-03-16 20:55:49,387 [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 20:55:51,110 [INFO] werkzeug: 127.0.0.1 - - [16/Mar/2026 20:55:51] "POST /api/chat HTTP/1.1" 200 -

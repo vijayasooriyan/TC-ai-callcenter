@@ -74,10 +74,9 @@ def ask_groq(prompt: str, max_tokens: int = 300) -> dict:
             messages=[
                 {"role": "user", "content": prompt}
             ],
-            temperature=0.3,              # lower = more factual answers
+            temperature=0.3,
             max_completion_tokens=max_tokens,
             top_p=1,
-            reasoning_effort="medium",    # as in your snippet
             stream=True,
             stop=None
         )

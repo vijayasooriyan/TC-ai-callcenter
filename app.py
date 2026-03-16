@@ -322,10 +322,14 @@ def api_chat():
     if not question:
         return jsonify({"error": "No question"}), 400
 
+    logger.info(f"📝 Chat request: lang={lang}, question={question[:60]}…")
+    
     t0     = time.time()
     answer = ask_groq_vapi([{"role": "user", "content": question}], max_tokens=300)
     dur    = int((time.time() - t0) * 1000)
 
+    logger.info(f"✅ Chat answered in {dur}ms: {answer[:80]}…")
+    
     log_web_chat(session, lang, question, answer, GROQ_MODEL, "groq", dur)
     return jsonify({"answer": answer, "session_id": session,
                     "llm_source": "groq", "llm_model": GROQ_MODEL, "duration_ms": dur})
