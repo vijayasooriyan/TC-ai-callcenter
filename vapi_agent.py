@@ -28,116 +28,197 @@ VAPI_API_KEY = os.getenv("VAPI_API_KEY", "")
 # ── TC-EUSL Knowledge Base (MULTILINGUAL) ─────────────────────────────────────
 KNOWLEDGE_BASE = """
 ═══════════════════════════════════════════════════════════════════════════════
-                    TC-EUSL MULTILINGUAL KNOWLEDGE BASE
+                 TC-EUSL COMPREHENSIVE MULTILINGUAL KNOWLEDGE BASE
 ═══════════════════════════════════════════════════════════════════════════════
 
 【 ENGLISH 】
 ═══════════════════════════════════════════════════════════════════════════════
-OVERVIEW:
-Trincomalee Campus, Eastern University Sri Lanka
-Location: Konesapuri, Nilaveli Road, Trincomalee
-Website: https://www.tc.esn.ac.lk/
+INSTITUTION OVERVIEW:
+Trincomalee Campus, Eastern University Sri Lanka is a premier educational institution 
+established in 1993 with three main faculties offering comprehensive undergraduate and 
+postgraduate programs. Our mission is to create, transform, and disseminate knowledge 
+through teaching, learning, and research for sustainable development.
 
-CONTACT:
-- Address: Konesapuri, Nilaveli-31010, Trincomalee, Sri Lanka
+HISTORY:
+- 1993: Established as Affiliated University College
+- 2001 (June): Became a University Campus
+- 2008: Faculty of Siddha Medicine added (first institute in Sri Lanka teaching Siddha Medicine in English)
+
+VISION: A world-recognized educational and research institute combining academic excellence with human values.
+
+LOCATION: Konesapuri, Nilaveli-31010, Trincomalee, Sri Lanka
+WEBSITE: https://www.tc.esn.ac.lk/
+
+PRIMARY CONTACT:
 - Phone: +94 26 2227410
 - Fax: +94 26 2227411
 - Email: rector@esn.ac.lk
+- Address: Konesapuri, Nilaveli Road, Trincomalee-31010
 
-RECTOR: Prof. K.T. Sundaresan
+RECTOR: Prof. K.T. Sundaresan (MBBS Kel, MD UOC, FRCP Edin)
+Specialist Physician - Internal Medicine
 
-FACULTIES:
-1. Faculty of Applied Science
-2. Faculty of Communication and Business Studies
-3. Faculty of Siddha Medicine
-4. Faculty of Technology
-5. Faculty of Graduate Studies
+THE THREE MAIN FACULTIES:
 
-LIBRARY:
-- New 4-story building at Konesapuri
-- Open: Monday-Friday 8 AM - 8 PM, Saturday 8 AM - 5 PM
+1. FACULTY OF APPLIED SCIENCE (FAS)
+   - Phone: +94 26 2051 210
+   - Email: dean.fas@esn.ac.lk
+   - Departments: Computer Science (DCS), Physical Science (DPS)
+   - Programs: 3-year degree, 6 semesters, English medium
+   - Activities: Industrial visits, competitions, workshops, research projects
 
-KEY INFORMATION:
-- Established: 1993
-- Campus became university campus: June 2001
-- Phone to call: +94 26 2227410
+2. FACULTY OF COMMUNICATION & BUSINESS STUDIES (FCBS)
+   - Phone: +94 26 222 4011
+   - Email: dean.fcbs@esn.ac.lk
+   - Departments: Business & Management (BMS), Languages & Communication (LCS), 
+     Information Technology (DIT)
+   - First faculty of the campus, established as pioneer faculty
+   - Focus on languages, communication, management and IT
+
+3. FACULTY OF SIDDHA MEDICINE (FSM)
+   - Phone: +94 262222644
+   - Email: dean.fsm@esn.ac.lk
+   - Established: 2008
+   - Special distinction: First institute in Sri Lanka teaching Siddha Medicine in English
+   - Publication: Sri Lanka Journal of Siddha Medicine (SLJSM)
+
+LIBRARY FACILITIES:
+- Modern 4-story building at Konesapuri
+- Operating Hours: Monday-Friday 8:00 AM - 8:00 PM | Saturday 8:00 AM - 5:00 PM
+- Diverse collection of information resources for student reference
+
+ADMINISTRATIVE DIVISIONS:
+Office of Rector, Deputy Registrar, General Administration, Establishment Department, 
+Academic Affairs Division, Student Affairs Division, Engineering Service Division, 
+Capital Works & Planning Unit, Financial Administration, Stores & Supply Services, 
+Strategic Planning Unit, Gender Equity Unit, Industry/Community Linkages Unit, 
+Staff Development Center
+
+RESEARCH & EVENTS:
+- TRInCo 2026: 8th International Research Conference (September 17-18)
+- Theme: "Innovate, Integrate, and Evolve Blue and Green: Towards Inclusive Sustainable Development"
+
+KEY ONLINE SYSTEMS:
+- Learning Management Systems (per faculty)
+- Student Information Portal
+- Email Services
+- Research Management System
+- Staff Portal
 
 ═══════════════════════════════════════════════════════════════════════════════
 【 සිංහල - SINHALA 】
 ═══════════════════════════════════════════════════════════════════════════════
-සාරාංශ:
-ට්‍රින්කොමාලි校園, නැගෙනහිර විශ්වවිද්‍යාලය ශ්‍රී ලංකා
-ස්ථානය: කොනෙසපුරි, නිලාවේලි පාර, ට්‍රින්කොමාලි
+ආයතනයේ දළ විස්තරය:
+ට්‍රින්කොමාලි කම්පස්, නැගෙනහිර විශ්වවිද්‍යාලය ශ්‍රී ලංකාව 1993 දී ස්ථාපිත වූ
+ඉතා කීර්තිමත් අධ්‍යාපන ආයතනයකි. අපගේ ප්‍රධාන පීඨ තුන මඟින් විවිධ උපාධි
+පාඨමාලා පිරිනමනු ලැබේ. අපගේ අරමුණ ශික්ෂණය, ඉගෙනුම සහ
+පර්යේෂණ හරහා දැනුම නිර්මාණය, පරිවර්තනය සහ ප්‍රචාරණය කිරීම
+තිරසාර සංවර්ධනය සඳහාය.
 
-සම්බන්ධතා තොරතුරු:
-- ඉmail: rector@esn.ac.lk
-- දුරකතනය: +94 26 2227410
-- FAX: +94 26 2227411
-- ලිපිනය: කොනෙසපුරි, නිලාවේලි-31010, ට්‍රින්කොමාලි, ශ්‍රී ලංකා
+ඉතිහාසය:
+- 1993: අනුබද්ධ විශ්වවිද්‍යාලීය කම්පස් ලෙස ස්ථාපිත කරන ලදි
+- 2001 (ජුනි): විශ්වවිද්‍යාල කම්පස් බවට පත් විය
+- 2008: සිද්ධ ඖෂධ පීඨය ආරම්භ කරන ලදි
 
-කතිපයේ:
-ප්‍රිස. කේ.ටී. සුන්දරසන්
+දර්ශනය: ලෝකය පුරා පිළිගත් අධ්‍යාපන සහ පර්යේෂණ ආයතනයක් වීම,
+ශාස්ත්‍රීය විශිෂ්ටත්වය සහ මානව අගයන් සමඟ.
 
-ශිල්පවලි:
-1. ව්‍යවහාරික විද්‍‍යා ශිල්පය
-2. සන්නිවේදන හා ව්‍යාපාර අධ්‍යයන ශිල්පය
-3. සිද්ධ ඖෂධ ශිල්පය
-4. තාක්‍ෂණ ශිල්පය
-5. උচ්චවිද්‍යා අධ්‍යයන ශිල්පය
+ස්ථානය: කොනෙසපුරි, නිලාවේලි-31010, ට්‍රින්කොමාලි, ශ්‍රී ලංකාව
+වෙබ් අඩවිය: https://www.tc.esn.ac.lk/
 
-පුස්තකාලය:
-- කොනෙසපුරිගේ ඉතිරි බිම ගොඩනැගිල්ල
-- වරින්: සඳුදා-සිකුරාදා 8 සීයර ගෙවල් - 8 සීයර සන්ධ්‍යා, සෙනසුරාදා 8 සීයර ගෙවල් - 5 සීයර සන්ධ්‍යා
+ප්‍රධාන සම්බන්ධතා:
+- දුරකථන: +94 26 2227410
+- ෆැක්ස්: +94 26 2227411
+- ඉ-මේල්: rector@esn.ac.lk
+- ලිපිනය: කොනෙසපුරි, නිලාවේලි පාර, ට්‍රින්කොමාලි-31010
 
-ප්‍රධාන තොරතුරු:
-- ස්ථාපිත: 1993
-- ශිල්පය විශ්වවිද්‍යාලය ශිල්පයක් බවට පත්: 2001 ජුනි
-- ඇමතීමට දුරකතනය: +94 26 2227410
+රෙක්ටර්: ප්‍රොෆෙ. කේ.ටී. සුන්දරසන්
+
+ප්‍රධාන පීඨ තුන:
+
+1. ව්‍යවහාරික විද්‍යා පීඨය (FAS)
+   - දුරකථන: +94 26 2051 210
+   - ඉ-මේල්: dean.fas@esn.ac.lk
+   - විෂයන්: පරිගණක විද්‍යා (DCS), භෞතික විද්‍යා (DPS)
+   - අධ්‍යයන කාලය: 3-වසර උපාධිය, සෙමෙස්ටර් 6, ඉංග්‍රීසි මාධ්‍යය
+
+2. සන්නිවේදන සහ ව්‍යාපාර අධ්‍යයන පීඨය (FCBS)
+   - දුරකථන: +94 26 222 4011
+   - ඉ-මේල්: dean.fcbs@esn.ac.lk
+   - විෂයන්: ව්‍යාපාර හා කළමනාකරණය (BMS), භාෂා සහ සන්නිවේදනය (LCS),
+     තොරතුරු තාක්‍ෂණය (DIT)
+
+3. සිද්ධ ඖෂධ පීඨය (FSM)
+   - දුරකථන: +94 262222644
+   - ඉ-මේල්: dean.fsm@esn.ac.lk
+   - ස්ථාපිත: 2008
+
+පුස්තකාල පහසුකම්:
+- කොනෙසපුරියේ නවීන මහල් 4ක ගොඩනැගිල්ල
+- ක්‍රියාකාරී වේලාව: සඳුදා-සිකුරාදා 8:00 AM - 8:00 PM | සෙනසුරාදා 8:00 AM - 5:00 PM
 
 ═══════════════════════════════════════════════════════════════════════════════
 【 தமிழ் - TAMIL 】
 ═══════════════════════════════════════════════════════════════════════════════
-கண்ணோட்டம்:
-திரிங்கோமாலி வளாகம், கிழக்கு பல்கலைக்கழகம் இலங்கை
-இடம்: கோனெசபுரி, நிலாவேலி சாலை, திரிங்கோமாலி
+நிறுவனத்தின் கண்ணோட்டம்:
+திருகோணமலை வளாகம், கிழக்கு பல்கலைக்கழகம், இலங்கை 1993 ஆம் ஆண்டு நிறுவப்பட்ட
+மிகச் சிறந்த கல்வி நிறுவனம் ஆகும். எங்களின் மூன்று முக்கிய பீடங்கள் மூலம்
+பல்வேறு இளங்கலை மற்றும் மேல்படிப்பு பாடத்திட்டங்கள் வழங்கப்படுகின்றன.
+எங்களின் நோக்கம் கல்வி, கற்றல் மற்றும் ஆராய்ச்சி மூலம் அறிவை உருவாக்கி,
+மாற்றி, பரப்பி நிலையான வளர்ச்சியை ஏற்படுத்துவது ஆகும்.
 
-தொடர்பு தகவல்:
-- முகவரி: கோனெசபுரி, நிலாவேலி-31010, திரிங்கோமாலி, இலங்கை
+வரலாறு:
+- 1993: இணைக்கப்பட்ட பல்கலைக்கழக வளாகமாக நிறுவப்பட்டது
+- 2001 (ஜூன்): பல்கலைக்கழக வளாகமாக மாற்றப்பட்டது
+- 2008: சித்த மருத்துவ பீடம் தொடங்கப்பட்டது
+
+பார்வை: உலகளவில் அங்கீகரிக்கப்பட்ட கல்வி மற்றும் ஆராய்ச்சி நிறுவனம்,
+கல்வி மேன்மையும் மனித மதிப்புகளும் இணைந்ததாக.
+
+இருப்பிடம்: கோனெசபுரி, நிலாவேலி-31010, திருகோணமலை, இலங்கை
+வலைத்தளம்: https://www.tc.esn.ac.lk/
+
+முக்கிய தொடர்புகள்:
 - தொலைபேசி: +94 26 2227410
 - ஃபாக்ஸ்: +94 26 2227411
 - மின்னஞ்சல்: rector@esn.ac.lk
+- முகவரி: கோனெசபுரி, நிலாவேலி , திருகோணமலை-31010
 
-சாளர:
-பேராசிரியர் கே.டி. சுந்தரசன்
+ரெக்டர்: பேராசிரியர் கே.டி. சுந்தரசன்
 
-பீடங்கள்:
-1. பயன்பாட்டு அறிவியல் பீடம்
-2. தொடர்புப் பாடல் மற்றும் வணிக பட்டங்கள் பீடம்
-3. சித்த மருத்துவ பீடம்
-4. தொழில்நுட்ப பீடம்
-5. முன்னுரைப்பு-கல்விப் பீடம்
+முக்கிய மூன்று பீடங்கள்:
 
-நூலகம்:
-- கோனெசபுரிக்கு சமீபத்திய நான்கு-தளம் கட்டடம்
-- நேரம்: திங்கட்கிழமை-வெள்ளிக்கிழமை 8 AM - 8 PM, சனிக்கிழமை 8 AM - 5 PM
+1. பயன்பாட்டு அறிவியல் பீடம் (FAS)
+   - தொலைபேசி: +94 26 2051 210
+   - மின்னஞ்சல்: dean.fas@esn.ac.lk
+   - பிரிவுகள்: கணினி அறிவியல் (DCS), இயற்பியல் அறிவியல் (DPS)
 
-முக்கிய தகவல்:
-- நிறுவப்பட்டது: 1993
-- வளாகம் பல்கலைக்கழக பல்கலைக்கழகமாக: 2001 ஜூன்
-- அழைக்க மொபைல்: +94 26 2227410
+2. தொடர்பியல் மற்றும் வணிகக் கல்வி பீடம் (FCBS)
+   - தொலைபேசி: +94 26 222 4011
+   - மின்னஞ்சல்: dean.fcbs@esn.ac.lk
+   - பிரிவுகள்: வணிக மேலாண்மை (BMS), மொழிகள் மற்றும் தொடர்பியல் (LCS),
+     தகவல் தொழில்நுட்பம் (DIT)
+
+3. சித்த மருத்துவ பீடம் (FSM)
+   - தொலைபேசி: +94 262222644
+   - மின்னஞ்சல்: dean.fsm@esn.ac.lk
+
+நூலக வசதிகள்:
+- கோனெசபுரியில் அமைந்துள்ள நவீன 4 மாடிக் கட்டிடம்
+- செயல்பாட்டு நேரம்: திங்கட்கிழமை–வெள்ளிக்கிழமை 8:00 AM - 8:00 PM | சனிக்கிழமை 8:00 AM - 5:00 PM
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-KEY RESPONSE EXAMPLES (AI should use these patterns):
+KEY RESPONSE EXAMPLES (AI should match caller's language):
 
-ENGLISH QUESTION: "What is the contact number?"
-ENGLISH ANSWER: "The contact number is +94 26 2227410. You can call us anytime."
+ENGLISH: "What is the contact number for Trincomalee Campus?"
+ANSWER: "The main contact number is +94 26 2227410. You can reach us during office hours."
 
-SINHALA QUESTION: "දුරකතනය?"
-SINHALA ANSWER: "දුරකතනය +94 26 2227410 ය. ඔබට ඕනෑකම වේලාවක අපට ඇමතිය හැක."
+SINHALA: "ට්‍රින්කොමාලි ශිල්පයේ දුරකතනය?"
+ANSWER: "ප්‍රධාන දුරකතනය +94 26 2227410 ය. කාර්යාලයේ අවධි අතරතුර ඔබට අපට ළඟා විය හැක."
 
-TAMIL QUESTION: "தொலைபேசி எண்?"
-TAMIL ANSWER: "தொலைபேசி எண் +94 26 2227410. நீங்கள் எப்போது வேண்டுமானாலும் அழைக்கலாம்."
+TAMIL: "திருகோணமலை வளாகத்தின் தொலைபேசி எண்?"
+ANSWER: "முக்கிய தொலைபேசி எண் +94 26 2227410. அலுவலக நேரத்தில் நீங்கள் எங்களை தொடர்பு கொள்ளலாம்."
 
 ═══════════════════════════════════════════════════════════════════════════════
 """
@@ -374,4 +455,3 @@ def make_outbound_call(to_number: str, assistant_id: str) -> dict:
 
 def check_vapi_health() -> bool:
     return bool(VAPI_API_KEY)
-
