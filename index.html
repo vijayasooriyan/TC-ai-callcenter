@@ -177,6 +177,7 @@ body::before{content:'';position:fixed;inset:0;background:repeating-linear-gradi
     <button class="ttab active" onclick="gp('chat')">💬 Chat</button>
     <button class="ttab" onclick="gp('monitor')">📡 Live Monitor</button>
     <button class="ttab" onclick="gp('vapi')">🎙️ Vapi Setup</button>
+    <button class="ttab" onclick="gp('bookings')">📅 Bookings</button>
     <button class="ttab" onclick="gp('calls')">📞 Call Logs</button>
     <button class="ttab" onclick="gp('setup')">⚙️ Setup Guide</button>
   </div>
@@ -316,6 +317,18 @@ body::before{content:'';position:fixed;inset:0;background:repeating-linear-gradi
   </div>
 </div>
 
+<!-- ═══ BOOKINGS ═══ -->
+<div class="page" id="pg-bookings" style="flex-direction:column">
+  <div id="vapi-wrap">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+      <div><div class="vapi-header">📅 Bookings</div>
+      <div class="vapi-sub">Customer call time bookings</div></div>
+      <button class="rb" onclick="loadBookings()">↺ Refresh</button>
+    </div>
+    <div id="bookingsList"><div class="empty">Loading…</div></div>
+  </div>
+</div>
+
 <!-- ═══ CALL LOGS ═══ -->
 <div class="page" id="pg-calls" style="flex-direction:column">
   <div id="vapi-wrap">
@@ -418,13 +431,14 @@ const BACKEND=getBackend();
 const FH={'Content-Type':'application/json','ngrok-skip-browser-warning':'true'};
 
 // ── Pages ──────────────────────────────────────────────────
-const PM={chat:'pg-chat',monitor:'pg-monitor',vapi:'pg-vapi',calls:'pg-calls',setup:'pg-setup'};
+const PM={chat:'pg-chat',monitor:'pg-monitor',vapi:'pg-vapi',bookings:'pg-bookings',calls:'pg-calls',setup:'pg-setup'};
 function gp(n){
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
   document.getElementById(PM[n]).classList.add('active');
-  document.querySelectorAll('.ttab').forEach((t,i)=>t.classList.toggle('active',['chat','monitor','vapi','calls','setup'][i]===n));
+  document.querySelectorAll('.ttab').forEach((t,i)=>t.classList.toggle('active',['chat','monitor','vapi','bookings','calls','setup'][i]===n));
   if(n==='vapi')loadVapiData();
   if(n==='calls')loadCallLogs();
+  if(n==='bookings')loadBookings();
 }
 
 // ── Lang ───────────────────────────────────────────────────
@@ -590,6 +604,39 @@ async function loadCallLogs(){
   }catch(e){el.innerHTML=`<div class="empty" style="color:var(--red)">⚠️ ${e.message}</div>`;}
 }
 
+// ── Bookings ───────────────────────────────────────────────
+async function loadBookings(){
+  const el=document.getElementById('bookingsList');
+  el.innerHTML='<div class="empty">Loading…</div>';
+  try{
+    const r=await fetch(`${BACKEND}/api/bookings`,{headers:FH});
+    const d=await r.json();
+    const bookings=d.bookings||[];
+    if(!bookings.length){el.innerHTML='<div class="empty">No bookings yet. When customers call and book times, they will appear here.</div>';return;}
+    const STATUS_COLOR={confirmed:'var(--green)',pending:'var(--amber)',cancelled:'var(--red)',completed:'var(--muted)'};
+    el.innerHTML=`<table style="width:100%;border-collapse:collapse;font-size:.74rem">
+      <thead><tr style="border-bottom:1px solid var(--bd)">
+        <th style="padding:7px 8px;text-align:left;color:var(--muted);font-size:.62rem">Customer</th>
+        <th style="padding:7px 8px;text-align:left;color:var(--muted);font-size:.62rem">Date</th>
+        <th style="padding:7px 8px;text-align:left;color:var(--muted);font-size:.62rem">Time</th>
+        <th style="padding:7px 8px;text-align:left;color:var(--muted);font-size:.62rem">Faculty / Dept</th>
+        <th style="padding:7px 8px;text-align:left;color:var(--muted);font-size:.62rem">Purpose</th>
+        <th style="padding:7px 8px;text-align:left;color:var(--muted);font-size:.62rem">Status</th>
+        <th style="padding:7px 8px;text-align:left;color:var(--muted);font-size:.62rem">Contact</th>
+      </tr></thead><tbody>
+      ${bookings.map(b=>`<tr style="border-bottom:1px solid rgba(28,42,66,.4)">
+        <td style="padding:7px 8px;font-weight:500">${b.caller_name||'—'}</td>
+        <td style="padding:7px 8px;color:var(--cyan)">${b.booking_date?new Date(b.booking_date).toLocaleDateString():'—'}</td>
+        <td style="padding:7px 8px;color:var(--amber);font-weight:500">${b.booking_time||'—'}</td>
+        <td style="padding:7px 8px;font-size:.68rem;color:var(--muted)"><div>${b.faculty||'—'}</div><div style="font-size:.65rem">${b.department||'—'}</div></td>
+        <td style="padding:7px 8px;max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:.68rem">${b.purpose||'—'}</td>
+        <td style="padding:7px 8px"><span style="font-size:.65rem;color:${STATUS_COLOR[b.status]||'var(--muted)'}">● ${b.status||'—'}</span></td>
+        <td style="padding:7px 8px;font-family:'DM Mono',monospace;font-size:.68rem;color:var(--purple)">${b.caller_number||'—'}</td>
+      </tr>`).join('')}
+      </tbody></table>`;
+  }catch(e){el.innerHTML=`<div class="empty" style="color:var(--red)">⚠️ ${e.message}</div>`;}
+}
+
 // ── Live Monitor ───────────────────────────────────────────
 let _sse=null, _activeCalls={}, _totalTurns=0;
 function startSSE(){
@@ -616,6 +663,8 @@ function handleEv(ev){
     const sid=Object.keys(_activeCalls).find(k=>_activeCalls[k].sid===ev.call_sid);
     if(sid)_activeCalls[sid].status=ev.status||'ended';
     addCard(ev.type,'📵 Call Ended',[['Status',ev.status],['Duration',ev.duration_sec+'s'],['Summary',ev.summary||'—']],ev.time);
+  }else if(ev.type==='booking_created'){
+    addCard(ev.type,'📅 Booking Created',[['Customer',ev.caller_name],['Date',ev.booking_date],['Time',ev.booking_time],['Faculty',ev.faculty||'—'],['Phone',ev.caller_number]],ev.time);
   }
   updActivePanel();
 }

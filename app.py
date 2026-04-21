@@ -39,7 +39,9 @@ from vapi_agent import (ask_groq_vapi, build_system_prompt, check_vapi_health,
                          get_vapi_phone_numbers, make_outbound_call,
                          VAPI_API_KEY, GROQ_API_KEY, GROQ_MODEL)
 from database import (init_db, log_web_chat, get_stats, export_all,
-                       log_system_event, upsert_session, log_turn, end_session)
+                       log_system_event, upsert_session, log_turn, end_session,
+                       create_booking, get_all_bookings, get_bookings_by_date,
+                       get_booking_by_id, update_booking_status)
 
 # ── Config ──────────────────────────────────────────────────────────────────────
 BASE_URL = os.getenv("BASE_URL", "http://localhost:5000").rstrip("/")
@@ -390,6 +392,108 @@ def api_live_log():
                     "recent_sessions": s.get("recent_sessions", []),
                     "total_call_turns": s.get("total_call_turns", 0),
                     "total_sessions": s.get("total_sessions", 0)})
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+#  BOOKING APIs
+# ══════════════════════════════════════════════════════════════════════════════
+
+@app.route("/api/bookings", methods=["GET"])
+def api_get_bookings():
+    """Retrieve all bookings or filter by date."""
+    date_filter = request.args.get("date")
+    if date_filter:
+        bookings = get_bookings_by_date(date_filter)
+    else:
+        bookings = get_all_bookings()
+    return jsonify({"bookings": bookings})
+
+
+@app.route("/api/bookings", methods=["POST"])
+def api_create_booking():
+    """Create a new booking from customer call."""
+    data = request.json or {}
+    
+    # Extract booking details from the request
+    session_id = data.get("session_id")
+    call_sid = data.get("call_sid")
+    caller_name = data.get("caller_name", "")
+    caller_number = data.get("caller_number", "")
+    booking_date = data.get("booking_date", "")
+    booking_time = data.get("booking_time", "")
+    faculty = data.get("faculty", "")
+    department = data.get("department", "")
+    purpose = data.get("purpose", "")
+    notes = data.get("notes", "")
+    
+    if not booking_date or not booking_time:
+        return jsonify({"error": "booking_date and booking_time are required"}), 400
+    
+    try:
+        booking_id = create_booking(
+            session_id=session_id,
+            call_sid=call_sid,
+            caller_name=caller_name,
+            caller_number=caller_number,
+            booking_date=booking_date,
+            booking_time=booking_time,
+            faculty=faculty,
+            department=department,
+            purpose=purpose,
+            notes=notes
+        )
+        
+        logger.info(f"📅 Booking created: ID={booking_id}  date={booking_date} time={booking_time}  caller={caller_name}")
+        
+        # Push live event
+        push_live("booking_created", {
+            "booking_id": booking_id,
+            "caller_name": caller_name,
+            "caller_number": caller_number,
+            "booking_date": booking_date,
+            "booking_time": booking_time,
+            "faculty": faculty,
+            "department": department,
+            "time": time.strftime("%H:%M:%S"),
+            "source": "booking_api"
+        })
+        
+        return jsonify({
+            "success": True,
+            "booking_id": booking_id,
+            "message": "Booking created successfully"
+        }), 201
+    except Exception as e:
+        logger.error(f"Error creating booking: {e}", exc_info=True)
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/api/bookings/<int:booking_id>", methods=["GET"])
+def api_get_booking(booking_id):
+    """Get a specific booking by ID."""
+    booking = get_booking_by_id(booking_id)
+    if not booking:
+        return jsonify({"error": "Booking not found"}), 404
+    return jsonify(booking)
+
+
+@app.route("/api/bookings/<int:booking_id>/status", methods=["PUT"])
+def api_update_booking_status(booking_id):
+    """Update booking status."""
+    data = request.json or {}
+    status = data.get("status", "confirmed")
+    
+    try:
+        update_booking_status(booking_id, status)
+        logger.info(f"📅 Booking updated: ID={booking_id}  status={status}")
+        return jsonify({
+            "success": True,
+            "booking_id": booking_id,
+            "status": status
+        })
+    except Exception as e:
+        logger.error(f"Error updating booking: {e}", exc_info=True)
+        return jsonify({"error": str(e)}), 500
 
 
 # ── Frontend ────────────────────────────────────────────────────────────────────

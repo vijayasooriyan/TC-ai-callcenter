@@ -69,6 +69,23 @@ def init_db():
             details     TEXT,
             timestamp   TEXT NOT NULL
         );
+
+        CREATE TABLE IF NOT EXISTS bookings (
+            id              INTEGER PRIMARY KEY AUTOINCREMENT,
+            session_id      TEXT,
+            call_sid        TEXT,
+            caller_name     TEXT,
+            caller_number   TEXT,
+            booking_date    TEXT NOT NULL,
+            booking_time    TEXT NOT NULL,
+            faculty         TEXT,
+            department      TEXT,
+            purpose         TEXT,
+            notes           TEXT,
+            status          TEXT DEFAULT 'confirmed',
+            created_at      TEXT NOT NULL,
+            updated_at      TEXT NOT NULL
+        );
         """)
 
 
@@ -204,3 +221,64 @@ def export_all():
         c.execute("SELECT * FROM web_chat_logs ORDER BY timestamp DESC")
         web = [dict(r) for r in c.fetchall()]
     return {"call_turns": turns, "call_sessions": sessions, "web_chat_logs": web}
+
+
+def create_booking(session_id=None, call_sid=None, caller_name=None, caller_number=None,
+                   booking_date=None, booking_time=None, faculty=None, department=None,
+                   purpose=None, notes=None):
+    """Create a new booking from a customer call."""
+    now = datetime.datetime.now().isoformat()
+    with get_conn() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            INSERT INTO bookings (
+                session_id, call_sid, caller_name, caller_number,
+                booking_date, booking_time, faculty, department,
+                purpose, notes, status, created_at, updated_at
+            ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
+        """, (session_id, call_sid, caller_name, caller_number,
+              booking_date, booking_time, faculty, department,
+              purpose, notes, 'confirmed', now, now))
+        conn.commit()
+        return cursor.lastrowid
+
+
+def get_all_bookings():
+    """Get all bookings."""
+    with get_conn() as conn:
+        c = conn.cursor()
+        c.execute("""
+            SELECT * FROM bookings ORDER BY booking_date DESC, booking_time DESC
+        """)
+        return [dict(r) for r in c.fetchall()]
+
+
+def get_bookings_by_date(date_str):
+    """Get bookings for a specific date."""
+    with get_conn() as conn:
+        c = conn.cursor()
+        c.execute("""
+            SELECT * FROM bookings WHERE booking_date = ? ORDER BY booking_time
+        """, (date_str,))
+        return [dict(r) for r in c.fetchall()]
+
+
+def get_booking_by_id(booking_id):
+    """Get a specific booking by ID."""
+    with get_conn() as conn:
+        c = conn.cursor()
+        c.execute("SELECT * FROM bookings WHERE id = ?", (booking_id,))
+        row = c.fetchone()
+        return dict(row) if row else None
+
+
+def update_booking_status(booking_id, status):
+    """Update booking status."""
+    now = datetime.datetime.now().isoformat()
+    with get_conn() as conn:
+        conn.execute(
+            "UPDATE bookings SET status = ?, updated_at = ? WHERE id = ?",
+            (status, now, booking_id)
+        )
+        conn.commit()
+
