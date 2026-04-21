@@ -428,15 +428,15 @@ Groq Response Generation
 
 ```
 # Vapi.ai Configuration
-VAPI_API_KEY=44ccf1b7-e737-4409-bcb3-253852cd77c5
-VAPI_PHONE_NUMBER_ID=e8f28099-15b2-4a0a-ad4e-94aad1991f74
+VAPI_API_KEY=your_vapi_api_key_here
+VAPI_PHONE_NUMBER_ID=your_vapi_phone_number_id_here
 
 # Groq (Free LLM Provider)
-GROQ_API_KEY=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
+GROQ_API_KEY=your_groq_api_key_here
 GROQ_MODEL=openai/gpt-oss-120b
 
 # Public URL (ngrok for local testing)
-BASE_URL=https://sacrificeable-lang-intermetallic.ngrok-free.dev
+BASE_URL=https://your-ngrok-url.ngrok-free.dev
 
 # Database
 DB_PATH=tc_eusl_calls.db
