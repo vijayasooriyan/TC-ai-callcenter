@@ -321,8 +321,7 @@ body::before{content:'';position:fixed;inset:0;background:repeating-linear-gradi
 <div class="page" id="pg-bookings" style="flex-direction:column">
   <div id="vapi-wrap">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
-      <div><div class="vapi-header">📅 Bookings</div>
-      <div class="vapi-sub">Customer call time bookings</div></div>
+      <div><div class="vapi-header">📅 Bookings</div><div class="vapi-sub">Customer call time bookings</div></div>
       <button class="rb" onclick="loadBookings()">↺ Refresh</button>
     </div>
     <div id="bookingsList"><div class="empty">Loading…</div></div>
@@ -663,8 +662,6 @@ function handleEv(ev){
     const sid=Object.keys(_activeCalls).find(k=>_activeCalls[k].sid===ev.call_sid);
     if(sid)_activeCalls[sid].status=ev.status||'ended';
     addCard(ev.type,'📵 Call Ended',[['Status',ev.status],['Duration',ev.duration_sec+'s'],['Summary',ev.summary||'—']],ev.time);
-  }else if(ev.type==='booking_created'){
-    addCard(ev.type,'📅 Booking Created',[['Customer',ev.caller_name],['Date',ev.booking_date],['Time',ev.booking_time],['Faculty',ev.faculty||'—'],['Phone',ev.caller_number]],ev.time);
   }
   updActivePanel();
 }

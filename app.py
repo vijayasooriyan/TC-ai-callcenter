@@ -414,7 +414,6 @@ def api_create_booking():
     """Create a new booking from customer call."""
     data = request.json or {}
     
-    # Extract booking details from the request
     session_id = data.get("session_id")
     call_sid = data.get("call_sid")
     caller_name = data.get("caller_name", "")
@@ -445,7 +444,6 @@ def api_create_booking():
         
         logger.info(f"📅 Booking created: ID={booking_id}  date={booking_date} time={booking_time}  caller={caller_name}")
         
-        # Push live event
         push_live("booking_created", {
             "booking_id": booking_id,
             "caller_name": caller_name,
@@ -453,7 +451,6 @@ def api_create_booking():
             "booking_date": booking_date,
             "booking_time": booking_time,
             "faculty": faculty,
-            "department": department,
             "time": time.strftime("%H:%M:%S"),
             "source": "booking_api"
         })

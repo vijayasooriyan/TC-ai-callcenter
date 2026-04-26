@@ -223,6 +223,8 @@ def export_all():
     return {"call_turns": turns, "call_sessions": sessions, "web_chat_logs": web}
 
 
+# ── BOOKING FUNCTIONS ──────────────────────────────────────────────────────────
+
 def create_booking(session_id=None, call_sid=None, caller_name=None, caller_number=None,
                    booking_date=None, booking_time=None, faculty=None, department=None,
                    purpose=None, notes=None):
